@@ -8,7 +8,7 @@ Front-End Developer
 * 🖥️  See my portfolio at [ad0v0.github.io/portfolio/](http://ad0v0.github.io/portfolio/)
 * ✉️  You can contact me at [olha.vadiasova@gmail.com](mailto:olha.vadiasova@gmail.com)
 * 🚀  I'm currently working on [Zippie](http://www.zippie.com/)
-* 🧠  I'm learning typescript
+* 🧠  I'm learning node.js
 * 🤝  I'm open to collaborating on mentoring
 
 <a href="https://www.github.com/ad0v0" target="_blank" rel="noreferrer"><img
