@@ -8,6 +8,6 @@ Frontend & UI Engineer with 10+ years of building web interfaces and 5+ years in
 - Accessibility, responsive behavior, and interface states that hold up under real use
 
 ### Currently exploring
-- AI-powered product features and workflows
+- AI in frontend & UI engineering — from AI-assisted development workflows to AI-powered interfaces
 - Design engineering
 - Interface experiments — testing what's possible beyond established boundaries
